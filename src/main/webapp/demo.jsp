@@ -5,14 +5,14 @@
     <title>JSP - Hello World</title>
 </head>
 <body>
-<h1><%= "Hello World!" %>
+<h1><%= "Xin chao" %>
 </h1>
 <table>
     <tr>
-        <th>id</th>
-        <th>id</th>
-        <th>id</th>
-        <th>id</th>
+        <td>id</td>
+        <td>id</td>
+        <td>id</td>
+        <td>id</td>
     </tr>
     <tr>
         <td>demo</td>
