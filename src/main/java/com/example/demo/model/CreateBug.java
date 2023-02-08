@@ -1,5 +1,5 @@
 package com.example.demo.model;
 
-public class Category {
+public class CreateBug {
     int id_category;
 }
